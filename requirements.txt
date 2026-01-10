@@ -1,0 +1,6 @@
+yt-dlp
+faster-whisper
+pydub
+tqdm
+soundfile
+numpy
